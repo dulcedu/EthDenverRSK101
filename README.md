@@ -10,6 +10,11 @@ Sol G
 
 
 # Agenda:
+6:00 event 
+
+# Outline
+What is RSK?
+
 
 # Requirements:
  
